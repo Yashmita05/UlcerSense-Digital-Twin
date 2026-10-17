@@ -121,18 +121,14 @@ The repository should only be described as MIT-licensed after the license file h
 
 The UlcerSense system architecture diagram illustrates the workflow from thermal image input and preprocessing to feature integration, machine learning prediction, explainability, backend processing, and dashboard visualization.
 
-**Architecture Diagram:** Upload the architecture diagram created for UlcerSense to the repository and link the actual file here.
-
-Example path: `docs/UlcerSense_Architecture_Diagram.pdf`
+**Architecture Diagram:**[View UlcerSense Architecture Diagram (PPTX)](UlcerSense_Architecture.pptx)
 
 ## **11. Presentation (PDF/PPT Format)**
 
 The UlcerSense presentation covers the project overview, problem statement, healthcare use case, technical stack, AI/ML model, unique selling points, system architecture, and responsible-use considerations.
 
-- **Presentation PDF:** `docs/UlcerSense_Nexora_Presentation.pdf`
-- **Presentation PowerPoint:** `docs/UlcerSense_Nexora_Presentation.pptx`
+- **Presentation PDF:** [View UlcerSense Presentation (PDF)](UlcerSense.pdf)
 
-The presentation files should be uploaded to the `docs/` folder in the GitHub repository. Update the paths if your actual filenames differ.
 
 ## **Responsible Use and Limitations**
 
