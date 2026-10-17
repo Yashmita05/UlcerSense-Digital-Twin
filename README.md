@@ -127,7 +127,7 @@ The UlcerSense system architecture diagram illustrates the workflow from thermal
 
 The UlcerSense presentation covers the project overview, problem statement, healthcare use case, technical stack, AI/ML model, unique selling points, system architecture, and responsible-use considerations.
 
-- **Presentation PDF:** [View UlcerSense Presentation (PDF)](UlcerSense.pdf)
+* **Project Presentation:** [View UlcerSense Presentation (PDF)](UlcerSense.pdf)
 
 
 ## **Responsible Use and Limitations**
